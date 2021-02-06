@@ -11,4 +11,3 @@ Bruce Portfolio Overview Here.
 Bruce Bio
 
 [Check out Bruce's Portfolio Here!](https://bfadvtech.ictoxlab.com/)
-[Check out Bruce's Portfolio Here!](https://bfadvtech.ictoxlab.com/){:target="_blank"}
