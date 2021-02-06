@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: "Hey! "
-tagline: "-"
+tagline: ""
 featuredImage: /assets/20121025_ab_534-1-2-.jpg
 cta:
   ctaText: Portfolio
