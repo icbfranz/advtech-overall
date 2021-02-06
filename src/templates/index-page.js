@@ -65,7 +65,45 @@ const HomePage = ({ data }) => {
     )
   })
 	return (
-		
+		<Layout>
+      <SEO/>
+      <div className="home-banner grids col-1 sm-2">
+        <div>
+          <h1 className="title">{frontmatter.title}</h1>
+          <p 
+            className="tagline"
+            sx={{
+              color: 'muted'
+            }}
+          >
+            {frontmatter.tagline}
+          </p>
+          <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
+          <Link 
+            to={frontmatter.cta.ctaLink} 
+            className="button"
+            sx={{
+              variant: 'links.button'
+            }}
+          >
+            {frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span>
+          </Link>
+          <div  className="social-icons" sx={indexStyles.socialIcons}>
+            {sIcons}
+          </div>
+        </div>
+        <div>
+          {Image ? (
+            <Img 
+              fluid={Image} 
+              alt={frontmatter.title + ' - Featured image'}
+              className="featured-image"
+            />
+          ) : ""}
+        </div>
+      </div>
+      <BlogListHome/>
+		</Layout>
 	)
 }
 
