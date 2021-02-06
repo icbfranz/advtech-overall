@@ -76,16 +76,6 @@ const HomePage = ({ data }) => {
               color: 'muted'
             }}
           >
-            {frontmatter.tagline}
-          </p>
-          <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
-          <Link 
-            to={frontmatter.cta.ctaLink} 
-            className="button"
-            sx={{
-              variant: 'links.button'
-            }}
-          >
             {frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span>
           </Link>
           <div  className="social-icons" sx={indexStyles.socialIcons}>
