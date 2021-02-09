@@ -12,7 +12,7 @@ const PostCard = ({ data }) => (
   >
     {data.frontmatter.featuredImage ? 
       (
-        <Link to={data.frontmatter.slug}>
+        <Link to={data.frontmatter.slug}target="_blank">
           <Img 
             fluid={data.frontmatter.featuredImage.childImageSharp.fluid} 
             objectFit="cover"
@@ -26,7 +26,7 @@ const PostCard = ({ data }) => (
     <div class="post-content">
       <h2 className="title">
         <Link 
-          to={data.frontmatter.slug}
+          to={data.frontmatter.slug}target="_blank"
           sx={{
             variant: 'links.postLink'
           }}
