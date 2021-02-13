@@ -1,3 +1,12 @@
 {
-  "socialIcons": []
+  "socialIcons": [
+    {
+      "icon": "facebook",
+      "url": "https://www.facebook.com/ICENVS/"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/icenvs/"
+    }
+  ]
 }
