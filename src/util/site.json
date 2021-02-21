@@ -2,7 +2,8 @@
   "meta": {
     "title": "2021 Advanced Tech Portfolios ",
     "titleTemplate": "%s",
-    "description": "Welcome to the Ithaca College ENVS Advanced Technologies!  Each student has developed a portfolio including five projects that showcase an appreciation for technologies that apply to environmental science.  Explore! Enjoy!",
+    "description": "Welcome to the Ithaca College ENVS Advanced Technologies! Each student has developed a portfolio including five projects that showcase an appreciation for technologies that apply to environmental science. Explore! Enjoy!",
+    "siteUrl": "https://ictoxlab.com",
     "image": "/assets/favicon.png",
     "iconimage": "/assets/favicon.png",
     "twitterUsername": "@stackrole"
