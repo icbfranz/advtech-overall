@@ -8,4 +8,4 @@ cta:
   ctaText: Portfolio
   ctaLink: /blog
 ---
-Let's learn about tech! Put something else here!
+Welcome to the Ithaca College ENVS Advanced Technologies! Each student has developed a portfolio including five projects that showcase an appreciation for technologies that apply to environmental science. Explore! Enjoy!
