@@ -4,7 +4,7 @@ title: Bruce Franz
 slug: https://bfadvtech.ictoxlab.com/
 date: 2021-02-06 12:50
 description: "Bruce's Profilo "
-featuredImage: /assets/20121012_ab_095.png
+featuredImage: /assets/img_1767.jpeg
 ---
 Bruce Portfolio Overview Here.
 
