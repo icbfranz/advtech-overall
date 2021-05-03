@@ -7,7 +7,7 @@ description: |+
   
   Jake Espenscheid
 
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+featuredImage: /assets/2017_tocamac_fusion_chamber_n0689.jpg
 ---
 
 Jake Espenscheid
